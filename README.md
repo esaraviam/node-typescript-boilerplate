@@ -1,4 +1,4 @@
-##Let's get started.
+## Let's get started.
 
 First of all, we have to create a brand new project using yarn but if you prefer you can use Npm, that is completely up to you.
 
